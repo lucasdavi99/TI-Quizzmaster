@@ -1,0 +1,6 @@
+[submodule "Frontend-TI-QUIZZMASTER"]
+	path = Frontend-TI-QUIZZMASTER
+	url = https://github.com/lucasdavi99/Frontend-TI-QUIZZMASTER.git
+[submodule "Backend-TI-Quizzmaster"]
+	path = Backend-TI-Quizzmaster
+	url = https://github.com/lucasdavi99/Backend-TI-Quizzmaster.git
